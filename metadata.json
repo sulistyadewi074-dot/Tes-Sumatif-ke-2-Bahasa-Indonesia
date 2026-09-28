@@ -1,0 +1,8 @@
+{
+  "name": "Tes sumatif ke-2 Bahasa Indonesia",
+  "description": "Aplikasi Tes Sumatif  ke-2 Bahasa Indonesia, Kelas VI SD Negeri 3 Loloan Timur dengan 4 tahap tes, sinkronisasi Google Spreadsheet, unduh PDF naskah \u0026 hasil tes, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
